@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-count-number-of-trapezoids-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3886-count-number-of-trapezoids-i) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4080-smallest-missing-multiple-of-k) |
+| [4256-construct-uniform-parity-array-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4256-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2812-find-the-maximum-achievable-number) |
 | [3886-count-number-of-trapezoids-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3886-count-number-of-trapezoids-i) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3918-check-divisibility-by-digit-sum-and-product) |
+| [4256-construct-uniform-parity-array-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4256-construct-uniform-parity-array-i) |
 ## Newton's Method
 |  |
 | ------- |
