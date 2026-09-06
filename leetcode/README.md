@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0263-ugly-number) |
 | [0268-missing-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0268-missing-number) |
+| [0292-nim-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0909-stone-game) |
 | [1617-stone-game-iv](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1617-stone-game-iv) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0909-stone-game) |
 | [1617-stone-game-iv](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1617-stone-game-iv) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0909-stone-game) |
 | [1617-stone-game-iv](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1617-stone-game-iv) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0292-nim-game) |
 | [1617-stone-game-iv](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1617-stone-game-iv) |
 ## Sprague–Grundy Theorem
 |  |
@@ -218,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-first-letter-to-appear-twice](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0292-nim-game) |
 <!---LeetCode Topics End-->
