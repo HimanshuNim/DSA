@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0231-power-of-two) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0037-sudoku-solver) |
 | [0268-missing-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0424-longest-repeating-character-replacement) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0782-jewels-and-stones) |
