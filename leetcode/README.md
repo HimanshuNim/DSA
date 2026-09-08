@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1019-squares-of-a-sorted-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1626-can-make-arithmetic-progression-from-sequence) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1878-check-if-array-is-sorted-and-rotated) |
 | [2002-stone-game-viii](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2002-stone-game-viii) |
 | [3886-count-number-of-trapezoids-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3886-count-number-of-trapezoids-i) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4033-longest-subsequence-with-non-zero-bitwise-xor) |
