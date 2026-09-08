@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0909-stone-game) |
+| [1013-fibonacci-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1013-fibonacci-number) |
 | [1617-stone-game-iv](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1617-stone-game-iv) |
 | [2002-stone-game-viii](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2002-stone-game-viii) |
 | [2571-find-the-pivot-integer](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2571-find-the-pivot-integer) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0909-stone-game) |
+| [1013-fibonacci-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1013-fibonacci-number) |
 | [1617-stone-game-iv](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1617-stone-game-iv) |
 | [2002-stone-game-viii](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2002-stone-game-viii) |
 ## Minimax
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0486-predict-the-winner) |
+| [1013-fibonacci-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1013-fibonacci-number) |
 ## Nim Game
 |  |
 | ------- |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0292-nim-game) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
