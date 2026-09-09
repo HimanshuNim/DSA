@@ -2,6 +2,10 @@
 
 
 select e.name As Employee 
-from Employee e 
-join Employee m On e.managerId = m.id 
-where e.salary>m.salary;
+from Employee e
+where 
+e.salary>(
+    select m.salary
+    from Employee m
+    where e.managerId=m.id
+);
