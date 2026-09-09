@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-count-number-of-trapezoids-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3886-count-number-of-trapezoids-i) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3918-check-divisibility-by-digit-sum-and-product) |
 | [4245-count-commas-in-range](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4245-count-commas-in-range) |
+| [4248-count-commas-in-range-ii](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4256-construct-uniform-parity-array-i) |
 ## Newton's Method
 |  |
