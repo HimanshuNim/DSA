@@ -243,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1013-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
