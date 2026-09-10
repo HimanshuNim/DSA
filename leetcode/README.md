@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0782-jewels-and-stones) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0020-valid-parentheses) |
 | [0874-backspace-string-compare](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0874-backspace-string-compare) |
 ## Simulation
 |  |
@@ -259,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2347-count-nodes-equal-to-average-of-subtree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
