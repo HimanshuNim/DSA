@@ -247,4 +247,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0181-employees-earning-more-than-their-managers) |
+## Tree
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2347-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2347-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2347-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
