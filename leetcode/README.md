@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0181-employees-earning-more-than-their-managers) |
+| [1258-article-views-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1258-article-views-i) |
 ## Tree
 |  |
 | ------- |
