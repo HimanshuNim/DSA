@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0268-missing-number) |
 | [0292-nim-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0486-predict-the-winner) |
+| [0728-self-dividing-numbers](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0728-self-dividing-numbers) |
 | [0909-stone-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1064-smallest-integer-divisible-by-k) |
