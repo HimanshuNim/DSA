@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1626-can-make-arithmetic-progression-from-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1878-check-if-array-is-sorted-and-rotated) |
 | [2002-stone-game-viii](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2002-stone-game-viii) |
+| [3799-unique-3-digit-even-numbers](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3799-unique-3-digit-even-numbers) |
 | [3886-count-number-of-trapezoids-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3886-count-number-of-trapezoids-i) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4080-smallest-missing-multiple-of-k) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0940-fruit-into-baskets) |
 | [2427-first-letter-to-appear-twice](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
+| [3799-unique-3-digit-even-numbers](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3799-unique-3-digit-even-numbers) |
 | [3886-count-number-of-trapezoids-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3886-count-number-of-trapezoids-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4080-smallest-missing-multiple-of-k) |
 ## Geometry
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1013-fibonacci-number) |
+| [3799-unique-3-digit-even-numbers](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3799-unique-3-digit-even-numbers) |
 ## Nim Game
 |  |
 | ------- |
@@ -265,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
