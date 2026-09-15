@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0263-ugly-number) |
 | [0268-missing-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0268-missing-number) |
 | [0292-nim-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0486-predict-the-winner) |
 | [0728-self-dividing-numbers](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0728-self-dividing-numbers) |
 | [0866-rectangle-overlap](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0866-rectangle-overlap) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0874-backspace-string-compare) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0874-backspace-string-compare) |
 ## Sliding Window
 |  |
