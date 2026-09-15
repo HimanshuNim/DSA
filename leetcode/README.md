@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1064-smallest-integer-divisible-by-k) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1617-stone-game-iv](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1617-stone-game-iv) |
 | [2002-stone-game-viii](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2002-stone-game-viii) |
 | [2571-find-the-pivot-integer](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2571-find-the-pivot-integer) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0268-missing-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
