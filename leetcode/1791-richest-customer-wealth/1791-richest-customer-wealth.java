@@ -3,11 +3,11 @@ class Solution {
 
         int maxWealth=0;
 
-        for(int i=0;i<accounts.length;i++) {
+        for(int[] customer:accounts) {
             int currentCus=0;
 
-            for(int j=0;j<accounts[i].length;j++){
-                currentCus+=accounts[i][j];
+            for(int bank:customer){
+                currentCus+=bank;
             }
 
             maxWealth=Math.max(currentCus,maxWealth);
