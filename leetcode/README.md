@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0185-department-top-three-salaries) |
 | [0620-not-boring-movies](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1258-article-views-i) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1625-group-sold-products-by-the-date) |
 | [1827-invalid-tweets](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1827-invalid-tweets) |
 ## Tree
