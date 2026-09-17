@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1827-invalid-tweets) |
+| [2087-confirmation-rate](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2087-confirmation-rate) |
 ## Tree
 |  |
 | ------- |
