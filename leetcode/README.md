@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1064-smallest-integer-divisible-by-k) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1501-circle-and-rectangle-overlapping) |
 | [1617-stone-game-iv](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1617-stone-game-iv) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2002-stone-game-viii](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2002-stone-game-viii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0866-rectangle-overlap) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1501-circle-and-rectangle-overlapping) |
 | [3886-count-number-of-trapezoids-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3886-count-number-of-trapezoids-i) |
 ## Sorting
 |  |
