@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0874-backspace-string-compare) |
 | [2427-first-letter-to-appear-twice](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3811-reverse-degree-of-a-string](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3811-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0874-backspace-string-compare) |
+| [3811-reverse-degree-of-a-string](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3811-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
