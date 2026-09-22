@@ -1,7 +1,7 @@
 {
   "hackerrank": {
-    "solved": 2,
-    "easy": 2,
+    "solved": 3,
+    "easy": 3,
     "medium": 0,
     "hard": 0,
     "unknown": 0,
@@ -17,6 +17,12 @@
         "category": "easy",
         "language": "Java 7",
         "date": "2026-09-22T14:16:45.766Z"
+      },
+      "java-if-else": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "Java 7",
+        "date": "2026-09-22T14:23:45.185Z"
       }
     }
   }
