@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1258-article-views-i) |
+| [1390-average-selling-price](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1625-group-sold-products-by-the-date) |
