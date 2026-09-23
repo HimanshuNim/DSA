@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1603-running-sum-of-1d-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1626-can-make-arithmetic-progression-from-sequence) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1791-richest-customer-wealth](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1878-check-if-array-is-sorted-and-rotated) |
 | [2002-stone-game-viii](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2002-stone-game-viii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0268-missing-number) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0940-fruit-into-baskets) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1064-smallest-integer-divisible-by-k) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
 | [3799-unique-3-digit-even-numbers](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3799-unique-3-digit-even-numbers) |
 | [3886-count-number-of-trapezoids-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3886-count-number-of-trapezoids-i) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0209-minimum-size-subarray-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1603-running-sum-of-1d-array) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2002-stone-game-viii](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2002-stone-game-viii) |
 | [2571-find-the-pivot-integer](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2571-find-the-pivot-integer) |
 ## Bit Manipulation
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0940-fruit-into-baskets) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Recursion
 |  |
 | ------- |
