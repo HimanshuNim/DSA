@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1791-richest-customer-wealth](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1878-check-if-array-is-sorted-and-rotated) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2002-stone-game-viii](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2002-stone-game-viii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3799-unique-3-digit-even-numbers) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1064-smallest-integer-divisible-by-k](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1064-smallest-integer-divisible-by-k) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
 | [3799-unique-3-digit-even-numbers](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3799-unique-3-digit-even-numbers) |
 | [3886-count-number-of-trapezoids-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3886-count-number-of-trapezoids-i) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0874-backspace-string-compare) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3811-reverse-degree-of-a-string](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3811-reverse-degree-of-a-string) |
