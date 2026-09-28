@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0874-backspace-string-compare) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0020-valid-parentheses) |
 | [0874-backspace-string-compare](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0874-backspace-string-compare) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0020-valid-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
 |  |
 | ------- |
