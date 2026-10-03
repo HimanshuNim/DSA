@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0909-stone-game) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0412-fizz-buzz) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0032-longest-valid-parentheses) |
 | [0874-backspace-string-compare](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0874-backspace-string-compare) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0032-longest-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
 |  |
