@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0051-n-queens) |
+| [0066-plus-one](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0066-plus-one) |
 | [0075-sort-colors](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0088-merge-sorted-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0066-plus-one) |
 | [0069-sqrtx](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0231-power-of-two) |
