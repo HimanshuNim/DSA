@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0678-valid-parenthesis-string) |
 | [0909-stone-game](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1013-fibonacci-number) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0678-valid-parenthesis-string) |
 | [0782-jewels-and-stones](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0874-backspace-string-compare) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0678-valid-parenthesis-string) |
 | [0874-backspace-string-compare](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0874-backspace-string-compare) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0678-valid-parenthesis-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
 |  |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0678-valid-parenthesis-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Linked List
 |  |
