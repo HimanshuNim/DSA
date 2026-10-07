@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0051-n-queens) |
+| [0301-remove-invalid-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0301-remove-invalid-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0424-longest-repeating-character-replacement) |
@@ -373,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
