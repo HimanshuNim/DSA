@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0678-valid-parenthesis-string) |
 | [0782-jewels-and-stones](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0874-backspace-string-compare) |
+| [1078-remove-outermost-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0678-valid-parenthesis-string) |
 | [0874-backspace-string-compare](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0874-backspace-string-compare) |
+| [1078-remove-outermost-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0678-valid-parenthesis-string) |
+| [1078-remove-outermost-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
 |  |
