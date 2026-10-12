@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2002-stone-game-viii](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2002-stone-game-viii) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2844-sum-of-squares-of-special-elements) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3799-unique-3-digit-even-numbers](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3799-unique-3-digit-even-numbers) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3886-count-number-of-trapezoids-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3886-count-number-of-trapezoids-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3799-unique-3-digit-even-numbers](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3799-unique-3-digit-even-numbers) |
 | [3886-count-number-of-trapezoids-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3886-count-number-of-trapezoids-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4080-smallest-missing-multiple-of-k) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0678-valid-parenthesis-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Linked List
 |  |
 | ------- |
