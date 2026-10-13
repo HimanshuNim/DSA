@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3886-count-number-of-trapezoids-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3886-count-number-of-trapezoids-i) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4033-longest-subsequence-with-non-zero-bitwise-xor) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4080-smallest-missing-multiple-of-k) |
 | [4256-construct-uniform-parity-array-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4256-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1019-squares-of-a-sorted-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1626-can-make-arithmetic-progression-from-sequence) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4078-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0678-valid-parenthesis-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4078-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
 | ------- |
