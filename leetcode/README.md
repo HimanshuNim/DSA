@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3886-count-number-of-trapezoids-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3886-count-number-of-trapezoids-i) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3918-check-divisibility-by-digit-sum-and-product) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4084-maximize-sum-of-squares-of-digits) |
 | [4245-count-commas-in-range](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4256-construct-uniform-parity-array-i) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4078-maximum-alternating-sum-of-squares) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4084-maximize-sum-of-squares-of-digits) |
 ## Linked List
 |  |
 | ------- |
