@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2002-stone-game-viii](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2002-stone-game-viii) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2844-sum-of-squares-of-special-elements) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3799-unique-3-digit-even-numbers) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3886-count-number-of-trapezoids-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3886-count-number-of-trapezoids-i) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3799-unique-3-digit-even-numbers) |
 | [3886-count-number-of-trapezoids-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3886-count-number-of-trapezoids-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4080-smallest-missing-multiple-of-k) |
@@ -393,4 +395,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0301-remove-invalid-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3163-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3163-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
