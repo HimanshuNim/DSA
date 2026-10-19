@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-average-time-of-process-per-machine](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1827-invalid-tweets) |
+| [1877-find-followers-count](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1877-find-followers-count) |
 | [2087-confirmation-rate](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Tree
