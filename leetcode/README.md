@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1878-check-if-array-is-sorted-and-rotated) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2002-stone-game-viii](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2002-stone-game-viii) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2210-find-target-indices-after-sorting-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2844-sum-of-squares-of-special-elements) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0268-missing-number) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2210-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1019-squares-of-a-sorted-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1626-can-make-arithmetic-progression-from-sequence) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2210-find-target-indices-after-sorting-array) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4078-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
