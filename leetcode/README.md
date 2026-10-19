@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1617-stone-game-iv](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1617-stone-game-iv) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2002-stone-game-viii](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2002-stone-game-viii) |
+| [2383-add-two-integers](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2383-add-two-integers) |
 | [2571-find-the-pivot-integer](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2571-find-the-pivot-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2812-find-the-maximum-achievable-number) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3869-smallest-index-with-digit-sum-equal-to-index) |
