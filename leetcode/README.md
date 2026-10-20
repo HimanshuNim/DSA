@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4078-maximum-alternating-sum-of-squares](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4080-smallest-missing-multiple-of-k) |
 | [4256-construct-uniform-parity-array-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4256-construct-uniform-parity-array-i) |
+| [4257-sum-of-sortable-integers](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4257-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4245-count-commas-in-range](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4256-construct-uniform-parity-array-i) |
+| [4257-sum-of-sortable-integers](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4257-sum-of-sortable-integers) |
 ## Newton's Method
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/1626-can-make-arithmetic-progression-from-sequence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2210-find-target-indices-after-sorting-array) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4078-maximum-alternating-sum-of-squares) |
+| [4257-sum-of-sortable-integers](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4257-sum-of-sortable-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2844-sum-of-squares-of-special-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3799-unique-3-digit-even-numbers) |
+| [4257-sum-of-sortable-integers](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4257-sum-of-sortable-integers) |
 ## Pigeonhole Principle
 |  |
 | ------- |
