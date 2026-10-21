@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3811-reverse-degree-of-a-string](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/3811-reverse-degree-of-a-string) |
+| [4220-minimum-operations-to-sort-a-string](https://github.com/HimanshuNim/DSA-LeetCode/tree/master/LeetCode/4220-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
